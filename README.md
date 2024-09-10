@@ -8,8 +8,11 @@ Create a dashboard for the retention manager reflecting the KPIs
 Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed.
 
 Snapshot of dashboards based on some important KPI's demographics,Account Information and Services.
+
 ![image](https://github.com/user-attachments/assets/d450ad7c-a707-4489-a990-bc01ff1a7746)
+
 ![image](https://github.com/user-attachments/assets/80001e71-3061-49dd-818d-237a7c2b1110)
+
 ![image](https://github.com/user-attachments/assets/aa722627-858c-40e1-a057-20ea78f60162)
 
 The purpose of data analysis is to gain insights and provide recommendations to help an organization grow.
